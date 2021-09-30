@@ -1,0 +1,2 @@
+git subtree add --prefix _forks/fenago/kafka-training  https://github.com/fenago/kafka-training.git master
+#git subtree pull --prefix _forks/fenago/kafka-training  https://github.com/fenago/kafka-training.git master

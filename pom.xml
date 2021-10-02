@@ -15,9 +15,9 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <modules>
-        <module>kafka-starter</module>
-    </modules>
+    <!--<modules>
+        <module>java-producers-consumers</module>
+    </modules>-->
 
 
 </project>
